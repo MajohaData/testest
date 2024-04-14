@@ -1,0 +1,44 @@
+body {
+    background-color: #DCF7F2;
+    font-family: 'Inter', sans-serif;
+}
+
+.marking {
+    color: #198754;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Handlee';
+}
+
+.feature-icon-small {
+    width: 3rem;
+    height: 3rem;
+}
+
+
+.profpic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.profpic img {
+    height: 400px;
+    margin-top: 50px;
+    border-radius: 30%;
+    
+}
+
+.feauteres {
+    background-color: #EDFCF9;
+    margin-top: -50px;
+}
+
+.navbutton  {
+    margin-top: 80px;
+    height: 50px;
+}
